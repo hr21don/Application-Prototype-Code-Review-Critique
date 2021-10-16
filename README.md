@@ -15,7 +15,6 @@ Your organisation has also identified these features/extensions as requirements:
 * Undo of (appropriate) commands in drafting mode.
 * Support for internationalisation (i18n); e.g., UI messages in alternative languages.
 
-###Robustness 
-
+##Robustness 
 The command line client must support all existing and future functionality with gracefulhandling of user input errors (e.g., mistyped commands or invalid arguments). The UI should report usageerrors and continue running as expected, i.e., without crashing the session.
 
